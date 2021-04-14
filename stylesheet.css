@@ -1,0 +1,14 @@
+body{
+    background-color: #e7e3e3;
+}
+#logo{
+    margin-top: 10px;
+}
+hr{
+    color:orangered;
+}
+#container{
+    background-color:"orange";
+    height: 225px;
+    width: 42px;
+}
